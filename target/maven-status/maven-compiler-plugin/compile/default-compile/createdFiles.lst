@@ -1,0 +1,7 @@
+invoiceserver/controller/UserController.class
+invoiceserver/model/Users.class
+invoiceserver/response/ErrorResponse.class
+invoiceserver/model/Users$UserRole.class
+invoiceserver/repository/UserRepository.class
+invoiceserver/InvoiceServer.class
+invoiceserver/response/Response.class
